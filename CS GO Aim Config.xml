@@ -1,0 +1,6 @@
+<autoer>
+  <packet>%xt%zm%acceptQuest%0%5295%</packet>
+  <packet>%xt%zm%tryQuestComplete%0%5295%-1%false%wvz%</packet>
+  <author>Author</author>
+  <spamspeed>1000</spamspeed>
+</autoer>
